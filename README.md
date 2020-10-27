@@ -8,3 +8,4 @@ Hello this is a simple ID card build with HTML and CSS.
   - MEDIUM Full Tutorial https://medium.com/@chansosemar
   - TWITTER https://twitter.com/chansomartini
   - INSTAGRAM https://instagram.com/chansomartini
+  - ENDORES My Skill on https://www.linkedin.com/in/chansosemar/
